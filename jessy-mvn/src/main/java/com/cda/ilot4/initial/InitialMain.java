@@ -7,7 +7,7 @@ import org.apache.commons.mail.SimpleEmail;
 public class InitialMain {
 	
 	private static final String HOST = "smtp.gmail.com";
-    private static final int PORT = 25;
+    private static final int PORT = 587;
     private static final boolean SSL_FLAG = true;
 
 		public static void main(String [] args) {    
@@ -36,4 +36,6 @@ public class InitialMain {
 	            System.out.println(ex);
 	        }
 	    }
+
 }
+
