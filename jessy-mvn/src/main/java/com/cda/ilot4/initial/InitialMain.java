@@ -12,11 +12,11 @@ public class InitialMain {
 
 		public static void main(String [] args) {    
 
-			String userName = "jessy.guillemot@hotmail.fr";
+			String userName = "H.BOGRAND@GMAIL.COM";
 	        String password = "";
 	         
-	        String fromAddress="jessy.guillemot@hotmail.fr";
-	        String toAddress =  "H.BOGRAND@GMAIL.COM";
+	        String fromAddress="H.BOGRAND@GMAIL.COM";
+	        String toAddress =  "jessy.guillemot@hotmail.fr";
 	        String subject = "Test Mail";
 	        String message = "Hello from Apache Mail";
 	         
@@ -37,4 +37,3 @@ public class InitialMain {
 	        }
 	    }
 }
-
