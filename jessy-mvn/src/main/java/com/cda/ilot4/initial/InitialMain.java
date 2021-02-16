@@ -36,6 +36,5 @@ public class InitialMain {
 	            System.out.println(ex);
 	        }
 	    }
-
 }
 
